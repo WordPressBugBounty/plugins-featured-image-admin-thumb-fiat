@@ -1,0 +1,1 @@
+# plugins-featured-image-admin-thumb-fiat
