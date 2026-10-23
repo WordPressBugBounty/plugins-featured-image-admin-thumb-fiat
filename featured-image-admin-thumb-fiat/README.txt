@@ -1,10 +1,10 @@
 === Featured Image Admin Thumb ===
 Contributors: seanchayes
 Donate link: https://www.seanhayes.biz/
-Tags: post-thumbnail, thumbnail, admin, image, featured, featured image, featured thumbnail, featured admin thumbnail
+Tags: featured image, post-thumbnail, featured thumbnail, featured admin thumbnail, admin image
 Requires at least: 3.5.1
 Requires PHP: 7.0
-Tested up to: 6.8
+Tested up to: 7.0
 Stable tag: 1.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
